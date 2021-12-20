@@ -1,6 +1,8 @@
 import {inject, lifeCycleObserver, LifeCycleObserver} from '@loopback/core';
 import {juggler} from '@loopback/repository';
 
+
+// Orlando Josue Ordoñez Rivera
 const config = {
   name: 'conn',
   connector: 'mongodb',
